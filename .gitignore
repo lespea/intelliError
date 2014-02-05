@@ -1,0 +1,10 @@
+project/target
+target/
+.project
+.cache
+.classpath
+.settings
+.idea
+.idea_modules
+*/*.log
+*.log
